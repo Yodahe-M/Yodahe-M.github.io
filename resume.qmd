@@ -1,87 +1,50 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Yodahe Mulugeta's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Yodahe Mulugeta
+
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="linkedin.com/in/yodahe-mulugeta-yodahe">My linkedin page</a>
+| <a href="https://github.com/Yodahe-M/
+Yodahe-M
+">My github page</a>
 </div>
 
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
 ## Education
+##### BS, Computer Science
+- GPA - 3.95
+- Emphasis in Functional Programming
+- Computer Science social media President | BYU-I Computing Society
+- Computer Science Society Secretary | BYU-I Computing Society
+- Brigham Young University - Idaho Scholarship
 
-`1654-1660`
-__The King's School, Grantham.__
+## Work Experience
+##### Online Computer Science Tutor
+- Provided guidance to students in computer science, emphasizing beginning Python and SQL, fostering enhanced proficiency and understanding of fundamental concepts in programming
+- Directed students in addressing and resolving technical challenges, leading to a 15% increase in overall grades
+- Clarified technical concepts weekly for over 10 students with diverse experience levels
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+##### Computing Society Social Media President
+- Designed visually captivating flyers for weekly Computing Society activities, incorporating event 
+details, resulting in a 20% increase in event attendance
+- Executed a comprehensive communication strategy by distributing flyers, emailing event 
+announcements, and promoting on social media platforms resulting in a 30% increase in audience 
+reach and awareness of Computing Society events
 
-- Sizar
+##### Computing Society Secretary
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Developed tailored meeting agendas for the Computing Society, outlining specific discussion topics, 
+deadlines, and assigned responsibilities for each member of presidency
+- Assigned clear tasks to each member of the Computing Society presidency following meetings, 
+ensuring accountability and progress on key action items
 
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+## Skills
+- Programming Languages: Python, C#, MySQL
+- Tools: Git, GitHub, visual studio, vs code
+- Soft skills: Teamwork, Critical Thinking, Problem solvin
 
 
 <!-- ### Footer
